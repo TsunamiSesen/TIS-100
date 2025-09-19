@@ -8,5 +8,5 @@ My solutions to [TIS-100](http://www.zachtronics.com/tis-100/) problems.
 
 
 ## Segment `00150` (Self-test diagnostic)
-- `  83` cycles.  ` 8` nodes.  `  8` instructions.  [(Solution)](00150.0.asm)
-- `  
+- `  83` cycles.  ` 8` nodes.  `  8` instructions. Direct  [(Solution)](00150.0.asm)
+- `  1,441,717` cycles. ` 8` nodes. ` 18` instructions. While loops [(Solution)](00150.1.asm) 
