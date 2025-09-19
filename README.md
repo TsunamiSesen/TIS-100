@@ -1,5 +1,4 @@
 # TIS-100
-My solutions to TIS-100 problems
 
 My solutions to [TIS-100](http://www.zachtronics.com/tis-100/) problems.
 
