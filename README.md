@@ -36,6 +36,8 @@ My solutions to [TIS-100](http://www.zachtronics.com/tis-100/) problems.
 - `  1,441,717` cycles. ` 8` nodes. ` 18` instructions. While loops [(Solution)](00150.1.asm)
 
 ## Segment `10981` (Signal amplifier)
+- ` 160` cycles. ` 4` nodes. ` 6` instructions. Direct [(Solution)](10981.0.asm)
+- ` 84` cycles. ` 5` nodes. ` 10` instructions. Parallel doubling. [(Solution)](10981.1.asm)
 
 ## Segment `20176` (Differential converter)
 
